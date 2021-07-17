@@ -1,5 +1,7 @@
 # Eternalblue
 
+OS system = Linux OS, Linux ARM, Termux
+
 You have to get metasploit-framework for using this repository!
 
 For using:
